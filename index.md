@@ -16,8 +16,9 @@ The primary programming language of the work you submit should be Java and apart
 3. JQuery 
 
 #### Mobile
-1 Android
-2 
+1. Android
+
+
 ### Server Side
 #### API
 1. RESTLet or other  REST Frame Works
