@@ -11,23 +11,24 @@ The primary programming language of the work you submit should be Java and apart
 
 ### Front End:
 #### Web
-1. Angular JS
-2. Bootstrap 
-3. JQuery 
+   1. Angular JS
+   2. Bootstrap 
+   3. JQuery 
 
 #### Mobile
-1. Android
+   1. Android
 
 
 ### Server Side
 #### API
-1. RESTLet or other  REST Frame Works
-2. gRPC
-3. Open API 3
+   1. RESTLet or other REST Frame Works
+   2. gRPC
+   3. Open API 3
 
 #### App Server
-1. Spring Boot
-2. Java PKCS
+   1. Spring Boot
+   2. Java PKCS for encryption, decryption, singing and hashing
+   
 
 
 
