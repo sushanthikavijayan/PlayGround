@@ -14,6 +14,7 @@ The primary programming language of the work you submit should be Java and apart
    1. Angular JS
    2. Bootstrap 
    3. JQuery 
+   4. JSON
 
 #### Mobile
    1. Android
@@ -28,3 +29,6 @@ The primary programming language of the work you submit should be Java and apart
 #### App Server
    1. Spring Boot
    2. Java PKCS for encryption, decryption, singing and hashing
+   3. JSON, XML
+   4. XML Encryprtion and Signing
+   5. PDF Signing
