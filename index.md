@@ -1,5 +1,3 @@
-# Finahub PlayGround Project
-
 Playground is a project that is primaerly used by Finahub Team to hire new employee. If you are interested in joining our team then fork this repository, add your project as a folder in the repository and submit a pull request. We will review your code and let you know the next steps.
 
 ## Why You should join Finahub
