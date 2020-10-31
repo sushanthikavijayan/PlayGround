@@ -1,2 +1,2 @@
-# PlayGround
-Repository for some coding experiments
+# Finahub PlayGround
+Repository for some coding experiments and assessment
