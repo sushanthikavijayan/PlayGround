@@ -1,5 +1,5 @@
 # Instructions
-Fork this repository and add you code in a subfolder under the "Hiring" folder. 
+Fork this repository and add your code in a subfolder under the "Hiring" folder. 
 
 Submit a pull request. 
 
