@@ -40,3 +40,7 @@ Apart from that we are interested in technologies such as
 ## Instructions for submiting your code
 **Please check out the intstructions given in our [Hiring folder of this repository](https://github.com/Finahub/PlayGround/tree/main/Hiring) for steps to submit your code. 
 Good luck and see you on the other side.**
+
+## Questions
+If you have any questions or doubts, feel free to get in touch with us at hr@finahub.com
+
