@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/Finahub/PlayGround/main/images/hiring%20banner.png)
 # Finahub Is Hiring
 Finahub's Playground is a repository that is primarily used by Finahub Team to find new members to join our development team. If you are interested in joining our team then fork [PlayGround Repository](https://github.com/Finahub/PlayGround), add your project as a folder in [Hiring folder of this repository](https://github.com/Finahub/PlayGround/tree/main/Hiring) and submit a pull request. We will review your code and let you know the next steps. BTW we will only consider work that can be compiled and run using Maven or Gradle.
 
