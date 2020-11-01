@@ -37,6 +37,5 @@ Apart from that we are interested in technologies such as
    4. XML Encryprtion and Signing
    5. PDF Signing
 ## Instruction
-Please check out the intstructions given in our [Hiring folder of this repository](https://github.com/Finahub/PlayGround/tree/main/Hiring) for steps to submit your work.
-
-Good luck and see you on the other side.
+**Please check out the intstructions given in our [Hiring folder of this repository](https://github.com/Finahub/PlayGround/tree/main/Hiring) for steps to submit your work. 
+Good luck and see you on the other side.**
