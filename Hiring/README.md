@@ -1,6 +1,6 @@
 # We Are Hiring
 Finahub is hiring engineers and we look at the work first and resumes later. 
-We don't care about the degrees you have or the collage you come from. We care about the quality of work you can do.
+We don't care about the degrees you have or the college you come from. We care about the quality of work you can do.
 
 ## Instructions
 Fork this repository and add your code in a subfolder under the "Hiring" folder. 
