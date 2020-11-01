@@ -8,7 +8,7 @@ If you had an opportunity to work on a product that uses cutting edge technologi
 We are currently working on an exciting new product that will help banks to come out with a completely new product. It is an exciting, challenging and impactful opportunity. 
 We are looking for self-motivated, driven technocrats who can collaborate with a diverse team to deliver results on time. The person should be a team player who knows that they can win only when the team wins.
 
-**We do not care about the educational degree you have, the certifications you hold or the collage/school you studied. We only care about the talent you have, the work you can do**
+**We do not care about the educational degree you have, the certifications you hold or the college/school you studied. We only care about the talent you have, the work you can do**
 
 ## The Work We Are Interested In
 The primary programming language of the work you submit should be **Java**, that said a knowledge of Kotlin helps.
