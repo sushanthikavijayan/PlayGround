@@ -1,6 +1,16 @@
 <img src ="https://raw.githubusercontent.com/Finahub/PlayGround/main/images/hiring%20banner.png" style="width:50%;">
 # Finahub Is Hiring
-Finahub's Playground is a repository that is primarily used by Finahub Team to find new members to join our development team. If you are interested in joining our team then fork [PlayGround Repository](https://github.com/Finahub/PlayGround), add your project as a folder in [Hiring folder of this repository](https://github.com/Finahub/PlayGround/tree/main/Hiring) and submit a pull request. We will review your code and let you know the next steps. BTW we will only consider work that can be compiled and run using Maven or Gradle.
+Finahub's Playground is a repository that is primarily used by Finahub Team to find new members to join our development team. If you are interested in joining our team please do the following.
+
+ **Step 1:** Fork [PlayGround Repository](https://github.com/Finahub/PlayGround)
+ 
+ **Step 2:** Add your project as a folder in [Hiring folder of this repository](https://github.com/Finahub/PlayGround/tree/main/Hiring) 
+ 
+ **Step 3:** Add your code to the folder
+ 
+ **Step 4:** Submit a pull request
+ 
+Once we get the pull request, we will review your code and let you know the next steps. Please make sure that you code will compile and run. You may use maven or gradle as build tool but that is not mandatory.
 
 ## Why You Should Join Finahub
 If you had an opportunity to work on a product that uses cutting edge technologies to positively impact the lives of millions of Indians, will you say ***Yes*** or ***No*** ?
