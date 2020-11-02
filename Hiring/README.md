@@ -3,9 +3,13 @@ Finahub is hiring engineers and we look at the work first and resumes later.
 We don't care about the degrees you have or the college you come from. We care about the quality of work you can do.
 
 ## Instructions
-Fork this repository and add your code in a subfolder under the "Hiring" folder. 
-
-Submit a pull request. 
+**Step 1:** Fork [PlayGround Repository](https://github.com/Finahub/PlayGround)
+ 
+ **Step 2:** Add your project as a folder in [Hiring folder of this repository](https://github.com/Finahub/PlayGround/tree/main/Hiring) 
+ 
+ **Step 3:** Add your code to the folder as per the task given below.
+ 
+ **Step 4:** Submit a pull request 
 
 ## Your Task
 
