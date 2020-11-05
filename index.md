@@ -21,6 +21,8 @@ We are currently working on an exciting new product that will help banks to come
 We are looking for self-motivated, driven technocrats who can collaborate with a diverse team to deliver results on time. The person should be a team player who knows that they can win only when the team wins.
 
 **We do not care about the educational degree you have, the certifications you hold or the college/school you studied. We only care about the talent you have, the work you can do**
+# Salaries
+Salaries will be as per industry standard for the skill and experiance you have.
 
 # TL;DR
 Reading thus far is enough help you submit your code but if you are interested in reading more about technology stack we are currently using then continue reading!
