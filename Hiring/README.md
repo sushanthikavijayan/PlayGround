@@ -15,7 +15,7 @@ We don't care about the degrees you have or the college you come from. We care a
 
 Create a small web application that has the following component
 1. Server side component written in Java that expose 2 REST API's
-    1. Create a GET API that will fetch gold price data from AirTable base named [Bank Info](https://airtable.com/shrLW24i9g40XV9Ab) and return any one row of the data as a JSON. If you do not have Airtable account then please use this [invite link to sign in and get access to Bank  Info Base](https://airtable.com/invite/l?inviteId=invdd9vtsjikYkFym&inviteToken=f352ba8e45be5663a75f76d4e51ef3da6cb7407d5cb3a6a98cf849b09a422ad5). For the GET API and API Token needed to make the call refer to [AirTable Documentation](https://airtable.com/api)
+    1. Create a GET API that will fetch the data from AirTable base named [Bank Info](https://airtable.com/shrLW24i9g40XV9Ab) and return any one row of the data as a JSON. If you do not have Airtable account then please use this [invite link to sign in and get access to Bank  Info Base](https://airtable.com/invite/l?inviteId=invdd9vtsjikYkFym&inviteToken=f352ba8e45be5663a75f76d4e51ef3da6cb7407d5cb3a6a98cf849b09a422ad5). For the GET API and API Token needed to make the call refer to [AirTable Documentation](https://airtable.com/api)
     2. Create a POST API that will insert the JSON data argument into an in-memory database such as [H2](http://www.h2database.com/html/main.html), [Apache Derby](https://db.apache.org/derby/) or [HSQLDB](http://hsqldb.org/)
 
 2. Client side component
