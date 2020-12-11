@@ -33,7 +33,7 @@ Apart from that we are interested in technologies such as
 
 ### Front End:
 #### Web
-   1. Angular JS
+   1. Angular
    2. Bootstrap 
    3. JQuery 
    4. JSON
