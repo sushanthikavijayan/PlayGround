@@ -19,7 +19,7 @@ Create a small web application that has the following component
     2. Create a POST API that will insert the JSON data argument into an in-memory database such as [H2](http://www.h2database.com/html/main.html), [Apache Derby](https://db.apache.org/derby/) or [HSQLDB](http://hsqldb.org/)
 
 2. Client side component
-    1. An HTML page that use Angular to fetch data and display it by calling a the above mentioned GET API. The API should be invoked when a button on the page is clicked. The data should be displayed in tabular form.
+    1. An HTML page that use Angular (**or any other client side technology you are familiar with**) to fetch data and display it by calling a the above mentioned GET API. The API should be invoked when a button on the page is clicked. The data should be displayed in tabular form.
     2. There should be a submit button below the data table which when clicked should call the POST API mentioned above to save the data.
 
 ### Pull Request
