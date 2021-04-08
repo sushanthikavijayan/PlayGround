@@ -2,7 +2,7 @@
 Finahub is hiring freshers as interns. To apply for an internship you need to take the coding challenge given below.
 
 ## Trivia Quiz HTML Page
-Create a HTML page that will display multiple choice quize using the data from the Open Trivia DB API given below.
+Create an HTML page that will display multiple choice quize using the data from the Open Trivia DB API given below.
  <pre>
  https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple
  </pre>
