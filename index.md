@@ -15,9 +15,7 @@ Once we get the pull request, we will review your code and let you know the next
 If you have any questions or doubts, feel free to get in touch with us at hr@finahub.com
 
 ## Why You Should Join Finahub
-If you had an opportunity to work on a product that uses cutting edge technologies to positively impact the lives of millions of Indians, will you say ***Yes*** or ***No*** ?
-
-We are currently working on an exciting new product that will help banks to come out with a completely new product. It is an exciting, challenging and impactful opportunity. 
+Finahub is launching a category-creating fintech product that will positivly impact the lives of millions of Indians. It is an exciting, challenging and impactful opportunity. 
 We are looking for self-motivated, driven technocrats who can collaborate with a diverse team to deliver results on time. The person should be a team player who knows that they can win only when the team wins.
 
 **We do not care about the educational degree you have, the certifications you hold or the college/school you studied. We only care about the talent you have, the work you can do**
@@ -33,7 +31,7 @@ Apart from that we are interested in technologies such as
 
 ### Front End:
 #### Web
-   1. Angular
+   1. Angular or ReactJS
    2. Bootstrap 
    3. JQuery 
    4. JSON
@@ -44,7 +42,7 @@ Apart from that we are interested in technologies such as
 
 ### Server Side
 #### API
-   1. RESTLet or other REST Frameworks
+   1. REST API Frameworks
    2. gRPC
    3. Open API 2.0
 
