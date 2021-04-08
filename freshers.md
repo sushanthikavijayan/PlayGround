@@ -10,7 +10,7 @@ Create a HTML page that will display multiple choice quize using the data from t
 The format of the data return by the API is as given below:
 
 <pre>
-```
+
 {
     "response_code": 0,
     "results": [
@@ -44,7 +44,7 @@ The format of the data return by the API is as given below:
 	.
     ]
 }
-```
+
 </pre>`
 
 ## Required behaviour of the page
