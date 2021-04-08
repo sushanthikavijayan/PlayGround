@@ -4,6 +4,8 @@
 Finahub is launching a category-creating fintech product that will positivly impact the lives of millions of Indians. It is an exciting, challenging and impactful opportunity. We are looking for self-motivated, driven technocrats who can collaborate with a diverse team to deliver results on time. The person should be a team player who knows that they can win only when the team wins.
 
 ## Coding Challenge
+To apply for the post please email your resume to hr@finahub.com and complete the following coding challenge.
+
 **Step 1:** Fork [PlayGround Repository](https://github.com/Finahub/PlayGround)
  
  **Step 2:** Add your project as a folder in [Hiring folder of this repository](https://github.com/Finahub/PlayGround/tree/main/Hiring) 
