@@ -1,7 +1,7 @@
 # Coding Challenge For Freshers
-Freashers can taken attempt any one of the following 2 codeing challenges
+Finahub is hiring freshers as interns. To apply for internship you need to take the coding challenge given below.
 
-1. Trivia Quiz HTML Page <br>
+## Trivia Quiz HTML Page
 Create a HTML page that will display multiple choice quize using the data from the Open Trivia DB API given below.
  <pre>
  https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple
@@ -47,7 +47,7 @@ The format of the data return by the API is as given below:
 
 </pre>`
 
-## Required behaviour of the page
+### Required behaviour of the page
 1. Each time the page is called new data will be loaded by making a call to the above API
 2. Users of the page should be able to select their answers from 4 choices displayed below the question.
 3. A "Check My Answers" button should be provided at the end of all the question to verify the answers selected by the user. 
