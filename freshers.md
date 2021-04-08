@@ -4,10 +4,10 @@ Freashers can taken attempt any one of the following 2 codeing challenges
 1. Trivia Quiz HTML Page <br>
 Create a HTML page that will display multiple choice quize using the data from the Open Trivia DB API given below.
 
-```https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple```
+<pre>https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple</pre>
 
 The format of the data return by the API is as given below:
-```
+```<pre>
 {
     "response_code": 0,
     "results": [
@@ -41,7 +41,8 @@ The format of the data return by the API is as given below:
 	.
     ]
 }
-```
+``
+</pre>`
 
 ## Required behaviour of the page
 1. Each time the page is called new data will be loaded by making a call to the above API
