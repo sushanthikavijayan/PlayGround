@@ -1,29 +1,32 @@
 <img src ="https://raw.githubusercontent.com/Finahub/PlayGround/main/images/hiring%20banner.png" style="width:50%;">
-# Finahub Is Hiring
-Finahub's Playground is a repository that is primarily used by Finahub Team to find new members to join our development team. If you are interested in joining our team please do the following.
 
- **Step 1:** Fork [PlayGround Repository](https://github.com/Finahub/PlayGround)
+# We Are Hiring
+Finahub is launching a category-creating fintech product that will positivly impact the lives of millions of Indians. It is an exciting, challenging and impactful opportunity. We are looking for self-motivated, driven technocrats who can collaborate with a diverse team to deliver results on time. The person should be a team player who knows that they can win only when the team wins.
+
+## Coding Challenge
+**Step 1:** Fork [PlayGround Repository](https://github.com/Finahub/PlayGround)
  
  **Step 2:** Add your project as a folder in [Hiring folder of this repository](https://github.com/Finahub/PlayGround/tree/main/Hiring) 
  
- **Step 3:** Add your code to the folder as per the instructions in the README file in the [Hiring folder of this repository](https://github.com/Finahub/PlayGround/tree/main/Hiring)  
+ **Step 3:** Add your code to the folder as per the task given below.
  
- **Step 4:** Submit a pull request
- 
-Once we get the pull request, we will review your code and let you know the next steps. Please make sure that you code will compile and run. You may use maven or gradle as build tool but that is not mandatory.
+ **Step 4:** Submit a pull request 
 
-If you have any questions or doubts, feel free to get in touch with us at hr@finahub.com
+## Your Task
 
-## Why You Should Join Finahub
-Finahub is launching a category-creating fintech product that will positivly impact the lives of millions of Indians. It is an exciting, challenging and impactful opportunity. 
-We are looking for self-motivated, driven technocrats who can collaborate with a diverse team to deliver results on time. The person should be a team player who knows that they can win only when the team wins.
+Create a small web application that has the following component
+1. Server side component written in Java that expose 2 REST API's
+    1. Create a GET API that will fetch the data from AirTable base named [Bank Info](https://airtable.com/shrLW24i9g40XV9Ab) and return any one row of the data as a JSON. If you do not have Airtable account then please use this [invite link to sign in and get access to Bank  Info Base](https://airtable.com/invite/l?inviteId=invdd9vtsjikYkFym&inviteToken=f352ba8e45be5663a75f76d4e51ef3da6cb7407d5cb3a6a98cf849b09a422ad5). For the GET API and API Token needed to make the call refer to [AirTable Documentation](https://airtable.com/api)
+    2. Create a POST API that will insert the JSON data argument into an in-memory database such as [H2](http://www.h2database.com/html/main.html), [Apache Derby](https://db.apache.org/derby/) or [HSQLDB](http://hsqldb.org/)
 
-**We do not care about the educational degree you have, the certifications you hold or the college/school you studied. We only care about the talent you have, the work you can do**
-# Salaries
-Salaries will be as per industry standard for the skill and experiance you have.
+2. Client side component
+    1. An HTML page that use Angular (**or any other client side technology you are familiar with**) to fetch data and display it by calling a the above mentioned GET API. The API should be invoked when a button on the page is clicked. The data should be displayed in tabular form.
+    2. There should be a submit button below the data table which when clicked should call the POST API mentioned above to save the data.
 
-# TL;DR
-Reading thus far is enough help you submit your code but if you are interested in reading more about technology stack we are currently using then continue reading!
+### Pull Request
+Please make sure that you submit pull request with a working code. 
+If we accept the code, we will call you for a technical interview.
+
 
 ## The Work We Are Interested In
 The primary programming language of the work you submit should be **Java**, that said a knowledge of Kotlin helps.
