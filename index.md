@@ -18,8 +18,8 @@ To apply for the post please email your resume to hr@finahub.com and complete th
 
 Create a small web application that has the following component
 1. Client side component
-    1. Use Javscript and HTML (you may use any framework you like) to fetch any one row from the table on AirTable base named [Bank Info](https://airtable.com/shrLW24i9g40XV9Ab) and display it on the page. <br>
-__If you do not have Airtable account then please use this [invite link to sign in and get access to Bank  Info Base](https://airtable.com/invite/l?inviteId=invdd9vtsjikYkFym&inviteToken=f352ba8e45be5663a75f76d4e51ef3da6cb7407d5cb3a6a98cf849b09a422ad5). For the GET API and API Token needed to make the call refer to [AirTable Documentation](https://airtable.com/api)__
+    1. Use Javscript and HTML (you may use any framework you like) to fetch any one row from the table on AirTable base named [Bank Info](https://airtable.com/shrLW24i9g40XV9Ab) and display it on the page. AirTable has a REST API that can be invoked using javascript on a browser.<br><br>
+__If you do not have Airtable account then please use this [invite link to sign in and get access to Bank  Info Base](https://airtable.com/invite/l?inviteId=invdd9vtsjikYkFym&inviteToken=f352ba8e45be5663a75f76d4e51ef3da6cb7407d5cb3a6a98cf849b09a422ad5). For the GET API and API Token needed to make the call refer to [AirTable Documentation](https://airtable.com/api)__ <br><br>
     3. There should be a submit button below the data table which when clicked should call the POST API mentioned below to save the data.
    
 2. Server side component written in Java that expose a REST API 
