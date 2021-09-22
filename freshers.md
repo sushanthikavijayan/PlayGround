@@ -1,60 +1,31 @@
 # Coding Challenge For Freshers
-Finahub is hiring freshers as interns. To apply for an internship you need to take the coding challenge given below.
+Please complete the following coding challenge and submit you code to apply for Software Developer openings at Finahub. The quality of the code submitted and the interview score will be the only cretirea for placement. We don't ask care about the academic scores or back papers.
 
-## Trivia Quiz HTML Page
-Create an HTML page that will display multiple choice quize using the data from the Open Trivia DB API given below.
- <pre>
- https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple
- </pre>
+## Challenge
+Write a java programe that would read a the contents of a file and then search every instance of a given word or a phrase in the file content and then replace the characters of the matching occurancces with \* and then store the contents in a seperate file in the same directory where in the input file stored.
 
-The format of the data return by the API is as given below:
+The programe will accept two inputs:
+1. path to the file
+2. the word or phrase to search
 
-<pre>
+The output:
+1. File with modified content
 
-{
-    "response_code": 0,
-    "results": [
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
-            "correct_answer": "Subscriber",
-            "incorrect_answers": [
-                "Single",
-                "Secure",
-                "Solid"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
-            "correct_answer": "Medell&iacute;n",
-            "incorrect_answers": [
-                "Bogot&aacute;",
-                "Quito",
-                "Cali"
-            ]
-        },
-        .
-        .
-	.
-	.
-    ]
-}
+Example: <br>
+**Search Phrase:** `consectetur adipiscing elit`
 
-</pre>`
+If the input file contains the following text:
 
-### Required behaviour of the page
-1. Each time the page is loaded, a new data set will be loaded by making a call to the Open Trivia DB API given above.
-2. Users of the page should be able to select their answers from a multiple choice of 4 answers which are displayed below the question.
-3. A "Check My Answers" button should be provided at the end of all the question to verify the answers selected by the user. 
-4. When the user clicks on the "Check My Answers" button, the page should display the correct answers, wrong answers and the score of the user.
+>>Lorem ipsum dolor sit amet, `consectetur adipiscing elit`, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+>>
+>>Lorem ipsum dolor sit amet, `consectetur adipiscing elit`, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
-## Technology Stack
-Plain HTML and Javascript is sufficient to implement this challenge. That said you are free to use any javascript/web library like JQuery, ReactJS, Bootstrap etc.
+
+
+Output file content should be:
+>>Lorem ipsum dolor sit amet, \*********** \********** \****, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+>>
+>>Lorem ipsum dolor sit amet, \*********** \********** \****, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 ## Submiting the code
 **Step 1:** Fork [PlayGround Repository](https://github.com/Finahub/PlayGround)
