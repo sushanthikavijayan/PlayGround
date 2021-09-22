@@ -1,7 +1,7 @@
 # Coding Challenge For Freshers
 To apply for Software Developer openings at Finahub, please complete the following coding challenge and submit your code. The quality of the code you had shared and the interview score will be the only criteria for placement. We don’t ask care about the academic scores or back papers.
 
-## Challenge: Search and Replace with *
+## Challenge: Search and Replace with \*
 Write a java program that takes two inputs:
 1. path to the file
 2. a word or a phrase 
