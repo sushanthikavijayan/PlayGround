@@ -1,15 +1,13 @@
 # Coding Challenge For Freshers
 Please complete the following coding challenge and submit you code to apply for Software Developer openings at Finahub. The quality of the code submitted and the interview score will be the only cretirea for placement. We don't ask care about the academic scores or back papers.
 
-## Challenge
-Write a java programe that would read a the contents of a file and then search every instance of a given word or a phrase in the file content and then replace the characters of the matching occurancces with \* and then store the contents in a seperate file in the same directory where in the input file stored.
-
-The programe will accept two inputs:
+## Challenge: Search and Replace with *
+Write a java programe that takes two inputs:
 1. path to the file
-2. the word or phrase to search
+2. a word or a phrase 
 
-The output:
-1. File with modified content
+The program will read the contents of the file and then it will search for occurunces of the search phrase in the file. The program should then replace all charachers of matching occurunces of the search phrase with \*. <br><br>
+The modified file should be saved to a file in the same folder as the input file.
 
 Example: <br>
 **Search Phrase:** `consectetur adipiscing elit`
