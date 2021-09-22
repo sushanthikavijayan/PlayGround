@@ -1,12 +1,12 @@
 # Coding Challenge For Freshers
-Please complete the following coding challenge and submit you code to apply for Software Developer openings at Finahub. The quality of the code submitted and the interview score will be the only cretirea for placement. We don't ask care about the academic scores or back papers.
+To apply for Software Developer openings at Finahub, please complete the following coding challenge and submit your code. The quality of the code you had shared and the interview score will be the only criteria for placement. We don’t ask care about the academic scores or back papers.
 
 ## Challenge: Search and Replace with *
-Write a java programe that takes two inputs:
+Write a java program that takes two inputs:
 1. path to the file
 2. a word or a phrase 
 
-The program will read the contents of the file and then it will search for occurunces of the search phrase in the file. The program should then replace all charachers of matching occurunces of the search phrase with \*. <br><br>
+The program will read the contents in the file and search for occurrences of the search phrase in the file. The program should then replace all characters of matching occurrences of the search phrase with \*. <br><br>
 The modified file should be saved to a file in the same folder as the input file.
 
 Example: <br>
