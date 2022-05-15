@@ -1,0 +1,33 @@
+package work.connect;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+
+public class FileReaderReplace {
+		
+		public static void main(String[] args) throws FileNotFoundException { 
+		File file=new File("/Users/ajiaju/Desktop/Paragraph.txt");
+		Scanner vc=new Scanner(file);
+		while(vc.hasNextLine()) {
+			
+			System.out.println(vc.nextLine());
+		}
+		String replace,target;
+		Scanner rc=new Scanner(System.in);
+		System.out.println("");
+		System.out.println("Enter the target word to replace:");
+		target=rc.nextLine();
+		System.out.println("Enter the replace word to replace:");
+		Scanner bc=new Scanner(System.in);
+		replace=bc.nextLine();
+		Scanner sc=new Scanner(file);
+		
+		while(sc.hasNextLine()) {
+			
+			System.out.println(sc.nextLine().replaceAll(target,replace));
+		}
+		
+
+	}
+		}
